@@ -27,6 +27,7 @@ export default function BitacoraRegistro() {
     cargarBitacoras();
   }, []);
 
+  
   const cargarBitacoras = async () => {
     try {
       const snap = await getDocs(bitacorasRef);
