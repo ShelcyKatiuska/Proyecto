@@ -1,6 +1,6 @@
 import { Container, Card, Row, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import AppNavbar from "../components/Navbar"; // Asegúrate de importar tu Navbar
+import AppNavbar from "../Components/Navbar"; // Asegúrate de importar tu Navbar
 
 const Dashboard = () => {
   const modulos = [
