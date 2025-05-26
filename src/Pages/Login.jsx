@@ -1,4 +1,5 @@
-import LoginForm from "./components/LoginForm";
+import LoginForm from "../Components/LoginForm";
+
 
 // src/Pages/Login.jsx
 
